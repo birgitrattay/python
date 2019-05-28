@@ -1,7 +1,7 @@
 
 
 
-# Pyhthon Introduction
+# Python Introduction
 
 na endlich geht das
 
